@@ -1,0 +1,4 @@
+log_file: "../logs/live.log"
+model_file: "../models/model.pkl"
+slack_webhook: "YOUR_WEBHOOK_HERE"
+alert_threshold: 500
